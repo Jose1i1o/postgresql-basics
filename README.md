@@ -1,4 +1,4 @@
-## 📚 PostgreSQL Practice Exercises
+## 📚 PostgreSQL Mini-Pill Exercises
 
 ## 📝 Description
 
