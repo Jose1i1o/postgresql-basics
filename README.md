@@ -14,7 +14,7 @@ Enjoy practicing and mastering your PostgreSQL skills with these exercises!
 
 ### 🎯 Objective
 
-The objective of these exercises is to practice basic PostgreSQL queries, ranging from a very low to a low level of complexity. The exercises do not involve subqueries.
+These exercises are intended to practice basic PostgreSQL queries, ranging from low to intermediate level of complexity. The exercises do not include subqueries.
 
 ### 💪 Exercises
 
